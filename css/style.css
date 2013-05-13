@@ -116,4 +116,18 @@
   border: 1px solid #bdc3c7; }
 
 .concrete-border {
-  border: 1px so
+  border: 1px solid #95a5a6; }
+/*
+ * fonts, suggested parings..do not like than supply your own
+ */
+@font-face {
+font-family: 'Roboto';
+src: url('/fonts/Roboto-Black.ttf') format('truetype'),
+url('/fonts/Roboto-Light.ttf') format('truetype'),
+url('/fonts/Roboto-Medium.ttf') format('truetype'),
+url('/fonts/Roboto-Regular.ttf') format('truetype'),
+url('/fonts/Roboto-Thin.ttf') format('truetype');
+font-stretch: normal;
+font-weight: normal;
+font-style: normal;
+}
