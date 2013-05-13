@@ -1,5 +1,6 @@
 /*
  * flat UI colors, more or a better way to visually impart modernism.
+ * color pairs are in order, ie turquoise and greensea, emerland and nephritis, etc
  */
 .turquoise-bg {
   background-color: #1abc9c; }
@@ -189,4 +190,162 @@ font-style: bold;
     url('/fonts/UbuntuMono-BI.ttf') format('truetype'),
     url('/fonts/UbuntuMono-R.ttf') format('truetype'),
     url('/fonts/UbuntuMono-RI.ttf') format('truetype');
+}
+/*
+ * CSS Stacking, differentthan font icon stacking but similar in concepts
+ * shapes I want to use are:
+ * parallelogram,chevron, tv, magnifying glass, badge ribbon, yin yang,
+ * 12 point burst, talk bubble, infinity, trapezoid
+ */
+#parallelogram-turquoise {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #1abc9c;
+}
+#parallelogram-greensea {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #16a085;
+}
+#parallelogram-emerland {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #2ecc71;
+}
+#parallelogram-hephritis {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #27ae60;
+}
+#parallelogram-peterriver {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #3498db;
+}
+#parallelogram-belizehole {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #2980b9;
+}
+#parallelogram-amethyst {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #9b59b6;
+}
+#parallelogram-wisteria {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #8e44ad;
+}
+#parallelogram-wetasphalt {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #34495e;
+}
+#parallelogram-midnightblue {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #2c3e50;
+}
+#parallelogram-sunflower {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #f1c40f;
+}
+#parallelogram-orange {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #f39c12;
+}
+#parallelogram-carrot {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #e67e22;
+}
+#parallelogram-pumpkin {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #d35400;
+}
+#parallelogram-alizarin {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #e74c3c;
+}
+#parallelogram-pomegranate {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #c0392b;
+}
+#parallelogram-clouds {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #ecf0f1;
+}
+#parallelogram-silver {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #bdc3c7;
+}
+#parallelogram-concrete {
+    width: 150px;
+    height: 100px;
+    -webkit-transform: skew(20deg);
+       -moz-transform: skew(20deg);
+         -o-transform: skew(20deg);
+    background: #95a5a6;
 }
