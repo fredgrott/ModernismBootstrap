@@ -120,6 +120,9 @@
 /*
  * fonts, suggested parings..do not like than supply your own
  */
+/*
+ * Roboto,normal
+ */
 @font-face {
 font-family: 'Roboto';
 src: url('/fonts/Roboto-Black.ttf') format('truetype'),
@@ -127,7 +130,63 @@ url('/fonts/Roboto-Light.ttf') format('truetype'),
 url('/fonts/Roboto-Medium.ttf') format('truetype'),
 url('/fonts/Roboto-Regular.ttf') format('truetype'),
 url('/fonts/Roboto-Thin.ttf') format('truetype');
-font-stretch: normal;
+
 font-weight: normal;
 font-style: normal;
+}
+/*
+ * Roboto,bold
+ */
+@font-face {
+font-family: 'Roboto-Bold';
+src: url('/fonts/Roboto-Bold.ttf') format('truetype'),
+font-style: bold;
+}
+/*
+ * Roboto, italic
+ */
+@font-face {
+    font-family:'Roboto-italic';
+    src: url('/fonts/Roboto-BlackItalic.ttf')format('truetype'),
+    url('/fonts/Roboto-BoldItalic.ttf') format('truetype'),
+    url('/fonts/Roboto-Italic.ttf') format('truetype'),
+    url('/fonts/Roboto-LightItalic.ttf') format('truetype'),
+    url('/fonts/Roboto-MediumItalic.ttf') format('truetype'),
+    url('/fonts/Roboto-ThinItalic.ttf') format('truetype'),
+    font-style: italic;
+}
+/*
+ * roboto, condensed
+ */
+@font-face {
+    font-family: 'Roboto-Condensed';
+    src: url('/fonts/Roboto-Condensed-Bold.ttf') format('truetype'),
+    url('/fonts/Roboto-Condensed-BoldItalic.ttf') format('truetype'),
+    url('/fonts/Roboto-Condensed-Italic.ttf') format('truetype'),
+    url('/fonts/Roboto-Condensed-Light.ttf') format('truetype'),
+    url('/fonts/Roboto-Condensed-LightItalic.ttf') format('truetype'),
+    url('/fonts/Roboto-Condensed-Regular.ttf') format('truetype');
+    font-stretch: condensed;
+}
+/*
+ * roboto,slab
+ */
+@font-face {
+    font-family: 'RobotoSlab';
+    src: url('/fonts/RobotodSlab-Bold.ttf') format('truetype'),
+    url('/fonts/RobotoSlab-Light.tff') format('truetype'),
+    url('/fonts/RobotoSlab-Regular.ttf') format('truetype'),
+    url('/fonts/RobotoSlab-Thin.ttf') format('truetype');
+    
+    
+}
+/*
+ * Ubuntu, mono
+ */
+@font-face {
+    font-family: 'UbuntuMono';
+    src: url('/fonts/UbuntuMono-B.ttf') format('truetype'),
+    url('/fonts/UbuntuMono-BI.ttf') format('truetype'),
+    url('/fonts/UbuntuMono-R.ttf') format('truetype'),
+    url('/fonts/UbuntuMono-RI.ttf') format('truetype');
 }
