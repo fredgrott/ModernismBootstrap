@@ -5,6 +5,7 @@ ModernismBootstrap
 
 A Modernism Bootstrap remix of Twitter Bootstrap. Caution, I go out on a limb
 and enforce a no icons rule, that is right all text font and typography baby!
+Other caution is that I am using alpha bootstrap wip 3.00.
 
 # License
 
