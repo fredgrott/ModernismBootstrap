@@ -194,8 +194,8 @@ font-style: bold;
 /*
  * CSS Stacking, differentthan font icon stacking but similar in concepts
  * shapes I want to use are:
- * parallelogram,chevron, tv, magnifying glass, badge ribbon, yin yang,
- * 12 point burst, talk bubble, infinity, trapezoid
+ * parallelogram,chevron, tv, magnifying glass, badge ribbon, 
+ * 12 point burst
  */
 .parallelogram-turquoise {
     width: 150px;
@@ -2571,4 +2571,536 @@ font-style: bold;
   -moz-transform:    rotate(140deg);
   -ms-transform:     rotate(140deg);
   -o-transform:      rotate(140deg);
+}
+.burst-12-turquoise {
+    background: #1abc9c;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-turquoise:before, .burst-12-turquoise:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #1abc9c;
+}
+.burst-12-turquoise:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-turquoise:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-greensea {
+    background: #16a085;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-greensea:before, .burst-12-greensea:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #16a085;
+}
+.burst-12-greensea:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-greensea:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-emerland {
+    background: #2ecc71;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-emerland:before, .burst-12-emerland:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #2ecc71;
+}
+.burst-12-emerland:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-emerland:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-nephritis {
+    background: #27ae60;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-nephritis:before, .burst-12-nephritis:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #27ae60;
+}
+.burst-12-nephritis:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-nephritis:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-peterriver {
+    background: #3498db;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-peterriver:before, .burst-12-peterriver:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #3498db;
+}
+.burst-12-peterriver:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-peterriver:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-belizehole {
+    background: #3498db;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-belizehole:before, .burst-12-belizehole:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #3498db;
+}
+.burst-12-belizehole:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-belizehole:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-amethyst {
+    background: #9b59b6;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-amethyst:before, .burst-12-amethyst:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #9b59b6;
+}
+.burst-12-amethyst:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-amethyst:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-wisteria {
+    background: #8e44ad;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-wisteria:before, .burst-12-wisteria:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #8e44ad;
+}
+.burst-12-wisteria:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-wisteria:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-wetasphalt {
+    background: #34495e;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-wetasphalt:before, .burst-12-wetasphalt:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #34495e;
+}
+.burst-12-wetasphalt:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-wetasphalt:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-midnightblue {
+    background: #2c3e50;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-midnightblue:before, .burst-12-midnightblue:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #2c3e50;
+}
+.burst-12-midnightblue:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-midnightblue:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-sunflower {
+    background: #f1c40f;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-sunflower:before, .burst-12-sunflower:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #f1c40f;
+}
+.burst-12-sunflower:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-sunflower:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-orange {
+    background: #f39c12;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-orange:before, .burst-12-orange:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #f39c12;
+}
+.burst-12-orange:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-orange:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-carrot {
+    background: #e67e22;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-carrot:before, .burst-12-carrot:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #e67e22;
+}
+.burst-12-carrot:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-carrot:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-pumpkin {
+    background: #d35400;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-pumpkin:before, .burst-12-pumpkin:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #d35400;
+}
+.burst-12-pumpkin:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-pumpkin:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-alizarin {
+    background: #e74c3c;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-alizarin:before, .burst-12-alizarin:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #e74c3c;
+}
+.burst-12-alizarin:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-alizarin:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-pomegranate {
+    background: #c0392b;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-pomeranate:before, .burst-12-pomegranate:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #c0392b;
+}
+.burst-12-pomegranate:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-pomegranate:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-clouds {
+    background: #ecf0f1;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-clouds:before, .burst-12-clouds:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #ecf0f1;
+}
+.burst-12-clouds:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-clouds:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-silver {
+    background: #bdc3c7;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-silver:before, .burst-12-silver:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #bdc3c7;
+}
+.burst-12-silver:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-silver:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+}
+.burst-12-concrete {
+    background: #95a5a6;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12-concrete:before, .burst-12-concrete:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+    background: #95a5a6;
+}
+.burst-12-concrete:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+}
+.burst-12-concrete:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
 }
