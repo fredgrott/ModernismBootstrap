@@ -197,7 +197,7 @@ font-style: bold;
  * parallelogram,chevron, tv, magnifying glass, badge ribbon, yin yang,
  * 12 point burst, talk bubble, infinity, trapezoid
  */
-#parallelogram-turquoise {
+.parallelogram-turquoise {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -205,7 +205,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #1abc9c;
 }
-#parallelogram-greensea {
+.parallelogram-greensea {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -213,7 +213,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #16a085;
 }
-#parallelogram-emerland {
+.parallelogram-emerland {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -221,7 +221,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #2ecc71;
 }
-#parallelogram-nephritis {
+.parallelogram-nephritis {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -229,7 +229,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #27ae60;
 }
-#parallelogram-peterriver {
+.parallelogram-peterriver {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -237,7 +237,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #3498db;
 }
-#parallelogram-belizehole {
+.parallelogram-belizehole {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -245,7 +245,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #2980b9;
 }
-#parallelogram-amethyst {
+.parallelogram-amethyst {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -253,7 +253,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #9b59b6;
 }
-#parallelogram-wisteria {
+.parallelogram-wisteria {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
@@ -261,7 +261,7 @@ font-style: bold;
          -o-transform: skew(20deg);
     background: #8e44ad;
 }
-#parallelogram-wetasphalt {
+.parallelogram-wetasphalt {
     width: 150px;
     height: 100px;
     -webkit-transform: skew(20deg);
