@@ -1945,3 +1945,630 @@ font-style: bold;
      -ms-transform: rotate(45deg);
       -o-transform: rotate(45deg);
 }
+.badge-ribbon-turquoise{
+ position: relative;
+ background: #1abc9c;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-turquoise:before,
+.badge-ribbon-turquoise:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #1abc9c;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-turqoise:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-greensea{
+ position: relative;
+ background: #16a085;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-greensea:before,
+.badge-ribbon-greensea:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #16a085;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-greensea:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-emerland{
+ position: relative;
+ background: #2ecc71;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-emerland:before,
+.badge-ribbon-emerland:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #2ecc71;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-emerland:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-nephritis{
+ position: relative;
+ background: #27ae60;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-nephritis:before,
+.badge-ribbon-nephritis:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #27ae60;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-nephritis:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-peterriver{
+ position: relative;
+ background: #3498db;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-peterriver:before,
+.badge-ribbon-peterriver:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #3498db;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-peterriver:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-belizehole{
+ position: relative;
+ background: #3498db;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-belizehole:before,
+.badge-ribbon-belizehole:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #3498db;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-belizehole:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-amethyst{
+ position: relative;
+ background: #9b59b6;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-amethyst:before,
+.badge-ribbon-amethyst:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #9b59b6;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-amethyst:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-wisteria{
+ position: relative;
+ background: #8e44ad;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-wisteria:before,
+.badge-ribbon-wisteria:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #8e44ad;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-wisteria:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-wetasphalt{
+ position: relative;
+ background: #34495e;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-wetasphalt:before,
+.badge-ribbon-wetasphalt:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #34495e;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-wetasphalt:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-midnightblue{
+ position: relative;
+ background: #2c3e50;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-midnightblue:before,
+.badge-ribbon-midnightblue:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #2c3e50;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-midnightblue:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-sunflower{
+ position: relative;
+ background: #f1c40f;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-sunflower:before,
+.badge-ribbon-sunflower:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #f1c40f;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-sunflower:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-orange{
+ position: relative;
+ background: #f39c12;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-orange:before,
+.badge-ribbon-orange:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #f39c12;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-orange:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-carrot{
+ position: relative;
+ background: #e67e22;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-carrot:before,
+.badge-ribbon-carrot:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #e67e22;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-carrot:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-pumpkin{
+ position: relative;
+ background: #d35400;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-pumpkin:before,
+.badge-ribbon-pumpkin:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #d35400;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-pumpkin:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-alizarin{
+ position: relative;
+ background: #e74c3c;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-alizarin:before,
+.badge-ribbon-alizarin:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #e74c3c;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-alizarin:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-pomegranate{
+ position: relative;
+ background: #e74c3c;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-pomegranate:before,
+.badge-ribbon-pomegranate:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #c0392b;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-pomegranate:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-clouds{
+ position: relative;
+ background: #ecf0f1;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-clouds:before,
+.badge-ribbon-clouds:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #ecf0f1;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-clouds:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-silver{
+ position: relative;
+ background: #bdc3c7;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-silver:before,
+.badge-ribbon-silver:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #bdc3c7;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-silver:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
+.badge-ribbon-concrete{
+ position: relative;
+ background: #95a5a6;
+ height: 100px;
+ width: 100px;
+ -moz-border-radius:    50px;
+ -webkit-border-radius: 50px;
+ border-radius:         50px;
+}
+
+.badge-ribbon-concrete:before,
+.badge-ribbon-concrete:after {
+  content: '';
+  position: absolute;
+  border-bottom: 70px solid #95a5a6;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  top: 70px;
+  left: -10px;
+  -webkit-transform: rotate(-140deg);
+  -moz-transform:    rotate(-140deg);
+  -ms-transform:     rotate(-140deg);
+  -o-transform:      rotate(-140deg);
+}
+
+.badge-ribbon-concrete:after {
+  left: auto;
+  right: -10px;
+  -webkit-transform: rotate(140deg);
+  -moz-transform:    rotate(140deg);
+  -ms-transform:     rotate(140deg);
+  -o-transform:      rotate(140deg);
+}
