@@ -124,25 +124,44 @@
 /*
  * Roboto,normal
  */
-@font-face {
-font-family: 'Roboto';
-src: url('/fonts/Roboto-Black.ttf') format('truetype'),
-url('/fonts/Roboto-Light.ttf') format('truetype'),
-url('/fonts/Roboto-Medium.ttf') format('truetype'),
-url('/fonts/Roboto-Regular.ttf') format('truetype'),
-url('/fonts/Roboto-Thin.ttf') format('truetype');
+@font-face{
+    font-family: 'RobotoBlack';
+    src: url('/fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'RobotoLight';
+    src: url('/fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'Robotomedium';
+    src: url('/fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'RobotoRegular';
+    src: url('/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'RobotoThin';
+    src: url('/fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'RobotoBold';
+    src: url('/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+}
 
-font-weight: normal;
-font-style: normal;
-}
-/*
- * Roboto,bold
- */
-@font-face {
-font-family: 'Roboto-Bold';
-src: url('/fonts/Roboto-Bold.ttf') format('truetype'),
-font-style: bold;
-}
+=
 /*
  * Roboto, italic
  */
@@ -190,4 +209,31 @@ font-style: bold;
     url('/fonts/UbuntuMono-BI.ttf') format('truetype'),
     url('/fonts/UbuntuMono-R.ttf') format('truetype'),
     url('/fonts/UbuntuMono-RI.ttf') format('truetype');
+}
+/*
+ * font css element classes paired via the principle that serif/slab serif is the 
+ * heading and san serif/sans monospace/monospace is content
+ */
+.content-font-robotobold{
+    font-family: 'RobotoBold';
+    font-size: 100%;
+}
+
+.content-font-robotoitalic{
+    font-family: 'RobotoItalic';
+    font-size: 100%;
+}
+.heading-font-robotocondensed{
+    font-family: 'RobotoCondensed';
+    font-size: 100%;
+}
+
+.heading-font-robotoslab{
+    font-family: 'RobotoSlab';
+    font-size: 100%;
+}
+
+.content-font-ubuntumono{
+    font-family: 'UbuntuMono';
+    font-size: 100%;
 }
