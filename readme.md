@@ -17,3 +17,5 @@ Apache @.0 License
 # Credits
 
 By Fred Grott, GrottWorkShop
+
+Stuff and concepts borrowed from Twitter Bootstrap, FlatUI Mobile colors, etc.
