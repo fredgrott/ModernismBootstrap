@@ -1,3 +1,5 @@
+![ModernismBootstrap Logo]('https://github.com/shareme/ModernismBootstrap/raw/master/img/logo-mask.png')
+
 ModernismBootstrap
 ==================
 
