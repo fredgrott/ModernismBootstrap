@@ -18,7 +18,7 @@ Apache @.0 License
 
 # Credits
 
-![GWS logo](https://github.com/shareme/ModernismBootstrap/raw/master/img/logo-mask.png)
+![GWS logo](https://github.com/shareme/ModernismBootstrap/raw/master/img/logo.png)
 
 By Fred Grott, GrottWorkShop
 
